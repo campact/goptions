@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/voxelbrain/goptions"
+	"github.com/campact/goptions"
 	"os"
 	"time"
 )
